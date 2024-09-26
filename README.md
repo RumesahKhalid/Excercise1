@@ -1,4 +1,4 @@
-##Lab Session 6: Developers Collaboration Using GitHub 
+Lab Session 6: Developers Collaboration Using GitHub 
 Learning Outcomes
 After this lab, students will be able to
 •	Understand the differences between Git, and Github.
